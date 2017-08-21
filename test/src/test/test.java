@@ -6,5 +6,6 @@ public class test {
 		System.out.println("adf");
 		System.out.println("sdfvdz");
 		System.out.println("dsg十多个");
+		System.out.println("dsgvdv十多个");
 	}
 }
